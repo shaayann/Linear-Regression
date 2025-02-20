@@ -1,10 +1,10 @@
 # Per Capita Income Prediction using Linear Regression
 
-##📍 Objective:
+## Objective:
 
 To predict per capita income based on year using Linear Regression.
 
-##📍 Dataset:
+## Dataset:
 
 ### Columns:
 
@@ -14,7 +14,7 @@ per capita income (US$) (Dependent variable)
 
 Data Source: Kaggle or manually created dataset
 
-##📍 Approach:
+## Approach:
 
 ### Data Preprocessing:
 
@@ -38,7 +38,7 @@ Actual vs. Predicted Scatter Plot → Checks model accuracy.
 
 Residual Plot → Analyzes errors.
 
-##📍 Outcome:
+## Outcome:
 
 Model Equation: Income = (Coefficient × Year) + Intercept
 
